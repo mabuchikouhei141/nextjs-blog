@@ -4,7 +4,7 @@ import utilStyles from "../styles/utils.module.css";
 import Link from "next/link";
 
 const name = "Kohei Mabuchi";
-export const siteTitle = "Next.js blog"
+export const siteTitle = "画像生成AIプロンプト日記"
 function Layout({ children , home }) {
     return (
         <div className={styles.container}>
