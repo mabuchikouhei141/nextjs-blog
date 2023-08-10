@@ -35,3 +35,11 @@
   margin: 0 auto;
   grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
 }
+
+@media (max-width: 768px) {
+  .grid {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%; /* この高さは、要素を中央に揃えたい範囲の高さに合わせて変更してください */
+  }
