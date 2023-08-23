@@ -5,7 +5,7 @@ thumbnail: "/images/thumbnail1.jpeg"
 ---
 
 ＃[ClipDrop](https://clipdrop.co/stable-diffusion)
-＃[SDXL0.1](https://clipdrop.co/stable-diffusion)
+＃[SDXL1.0](https://clipdrop.co/stable-diffusion)
 
 [lofi hip hop radio 📚 - beats to relax/study to](https://www.youtube.com/watch?v=jfKfPfyJRdk)を参考にして画像を生成しました。プロンプトは以下の通りです。
 
