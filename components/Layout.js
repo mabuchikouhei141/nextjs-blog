@@ -3,7 +3,7 @@ import styles from "./layout.module.css";
 import utilStyles from "../styles/utils.module.css";
 import Link from "next/link";
 
-const name = "Kohei Mabuchi";
+const name = "AI支出を広告収益で賄いたい人";
 export const siteTitle = "Next.js blog"
 function Layout({ children , home }) {
     return (

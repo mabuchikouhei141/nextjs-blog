@@ -36,12 +36,12 @@ export default function Home({ allPostsData }) {
       </Head>
       <section className={utilStyles.headingMd}>
         <p>
-          画像生成AIで参考になりそうなプロンプトをまとめました。
+          日進月歩のAI様の観察日記。
         </p>
       </section>
       <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>
         <h2>
-          📝画像生成AIプロンプト日記
+          📝生成AIプロンプト日記
         </h2>
           <div className={styles.grid}>
           {allPostsData.map(({id,title,date,thumbnail}) =>(
